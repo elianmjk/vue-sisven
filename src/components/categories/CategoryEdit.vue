@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-4">
-      <h1>Editar Categoría</h1>
+      <h1>Editar la Categoría</h1>
       <form @submit.prevent="handleSubmit" class="needs-validation" novalidate>
         <div class="mb-3">
           <label for="name" class="form-label">Nombre</label>
