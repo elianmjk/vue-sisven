@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-4">
-      <h1 class="mb-4">Lista de Productos</h1>
+      <h1 class="mb-4">Lista de los Productos</h1>
       <router-link to="/products/new" class="btn btn-success mb-3">Agregar Producto</router-link>
       <table class="table table-striped table-hover">
         <thead class="thead-dark">
