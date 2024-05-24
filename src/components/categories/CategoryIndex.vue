@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-4">
-      <h1 class="mb-4">Lista de Categorías</h1>
+      <h1 class="mb-4">Lista de las Categorías</h1>
       <router-link to="/categories/new" class="btn btn-success mb-3">Agregar Categoría</router-link>
       <table class="table table-striped table-hover">
         <thead class="thead-dark">
