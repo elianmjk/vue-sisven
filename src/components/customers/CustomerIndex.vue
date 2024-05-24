@@ -1,7 +1,7 @@
 <template>
     <div class="container mt-4">
       <h1 class="mb-4">Lista de los Clientes</h1>
-      <router-link to="/customers/new" class="btn btn-success mb-3">Agregar Cliente</router-link>
+      <router-link to="/customers/new" class="btn btn-success mb-3">Agregar un Cliente</router-link>
       <table class="table">
         <thead>
           <tr>
