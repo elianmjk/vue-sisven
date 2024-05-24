@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-4">
-      <h1>Agregar Nuevo Cliente</h1>
+      <h1>Agregar el Nuevo Cliente</h1>
       <form @submit.prevent="handleSubmit">
         <div class="mb-3">
           <label for="document_number" class="form-label">Número de Documento</label>
