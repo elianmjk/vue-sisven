@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-4">
-      <h1 class="mb-4">Lista de Modos de Pago</h1>
+      <h1 class="mb-4">Lista de los Modos de Pago</h1>
       <router-link to="/paymodes/new" class="btn btn-success mb-3">Agregar Modo de Pago</router-link>
       <table class="table table-striped table-hover">
         <thead class="thead-dark">
